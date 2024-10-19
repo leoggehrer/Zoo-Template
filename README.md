@@ -32,8 +32,6 @@ Es sind folgende Operatoren zu überladen:
 
 ![Illustration](Task01.jpeg)
 
-OO-Einstieg  2 ![Illustration]
-
 Diesmal gibt es keine Unittest-Vorlage. Testen Sie ihre Anwendung mit Hilfe des beiliegenden Hauptprogramms und mit selbst erstellten Unittests. 
 
 ### Hinweise zur Benennung der Tests
